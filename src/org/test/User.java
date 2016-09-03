@@ -1,20 +1,10 @@
 package org.test;
 
 public class User {
-	
-	private String id;
 
 	private String UserId;
 	
 	private String UserName;
-	
-	public String getId() {
-		return id;
-	}
-
-	public void setId(String id) {
-		this.id = id;
-	}
 	
 	public String getUserId() {
 		return UserId;
